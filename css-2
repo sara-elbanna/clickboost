@@ -1,0 +1,144 @@
+﻿@font-face {
+  font-family: 'Red Hat Display';
+  font-style: italic;
+  font-weight: 300;
+  src: url(s/redhatdisplay/v14/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVxAsD-l-d.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: italic;
+  font-weight: 400;
+  src: url(s/redhatdisplay/v14/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVmgsD-l-d.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: italic;
+  font-weight: 500;
+  src: url(s/redhatdisplay/v14/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVqAsD-l-d.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: italic;
+  font-weight: 600;
+  src: url(s/redhatdisplay/v14/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVRAwD-l-d.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: italic;
+  font-weight: 700;
+  src: url(s/redhatdisplay/v14/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVfQwD-l-d.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: italic;
+  font-weight: 800;
+  src: url(s/redhatdisplay/v14/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVGgwD-l-d.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: italic;
+  font-weight: 900;
+  src: url(s/redhatdisplay/v14/8vIh7wUr0m80wwYf0QCXZzYzUoTg-CSvZX4Vlf1fe6TVMwwD-l-d.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: normal;
+  font-weight: 300;
+  src: url(s/redhatdisplay/v14/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbjKWQk8z_Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/redhatdisplay/v14/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbmyWQk8z_Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: normal;
+  font-weight: 500;
+  src: url(s/redhatdisplay/v14/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbl6WQk8z_Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: normal;
+  font-weight: 600;
+  src: url(s/redhatdisplay/v14/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbrKRQk8z_Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/redhatdisplay/v14/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbouRQk8z_Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: normal;
+  font-weight: 800;
+  src: url(s/redhatdisplay/v14/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbuyRQk8z_Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Display';
+  font-style: normal;
+  font-weight: 900;
+  src: url(s/redhatdisplay/v14/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbsWRQk8z_Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Text';
+  font-style: italic;
+  font-weight: 300;
+  src: url(s/redhattext/v13/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAz4PXgcq1E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Text';
+  font-style: italic;
+  font-weight: 400;
+  src: url(s/redhattext/v13/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzvvXgcq1E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Text';
+  font-style: italic;
+  font-weight: 500;
+  src: url(s/redhattext/v13/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzjPXgcq1E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Text';
+  font-style: italic;
+  font-weight: 600;
+  src: url(s/redhattext/v13/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzYPLgcq1E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Text';
+  font-style: italic;
+  font-weight: 700;
+  src: url(s/redhattext/v13/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzWfLgcq1E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Text';
+  font-style: normal;
+  font-weight: 300;
+  src: url(s/redhattext/v13/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML-ZwZrHQdQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Text';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/redhattext/v13/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML7hwZrHQdQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Text';
+  font-style: normal;
+  font-weight: 500;
+  src: url(s/redhattext/v13/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML4pwZrHQdQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Text';
+  font-style: normal;
+  font-weight: 600;
+  src: url(s/redhattext/v13/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML2Z3ZrHQdQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Red Hat Text';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/redhattext/v13/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML193ZrHQdQ.ttf) format('truetype');
+}
